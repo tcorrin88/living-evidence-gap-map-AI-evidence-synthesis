@@ -1,0 +1,12 @@
+---
+title: "Home"
+---
+
+::: {.hero-banner}
+<span class="prototype-badge">Prototype</span>
+
+<div class="hero-title">Living Evidence Gap Map on the Use of Artificial Intelligence in Evidence Synthesis </div>
+
+<div class="hero-subtitle">
+A prototype demonstrating how living evidence gap map outputs can be published through a searchable, downloadable, and version-controlled platform.
+</div>
