@@ -1,0 +1,31 @@
+project:
+  type: website
+
+website:
+  title: "Living Evidence Gap Map on the Use of Artificial Intelligence in Evidence Synthesis"
+  search: true
+
+  navbar:
+    background: "#26374a"
+    foreground: "white"
+    left:
+      - href: index.qmd
+        text: Home
+      - href: outbreaks.qmd
+        text: Outbreaks
+      - href: methods.qmd
+        text: Methods
+      - href: update-guide.qmd
+        text: Update Guide
+
+  page-footer:
+    left: "Living Evidence Gap Map on the Use of Artificial Intelligence in Evidence Synthesis"
+    right: "Generated with Quarto and GitHub Pages"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+    page-layout: full
+
