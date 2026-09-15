@@ -13,7 +13,7 @@ View the full methods documentation, including the search process, screening app
  
 ```{=html}
 <p>
-<a href="PASTE-YOUR-HTML-LINK-HERE"
+<a href="https://doi.org/10.17605/OSF.IO/4AJT7"
      target="_blank"
      rel="noopener noreferrer"
      class="btn btn-primary">
