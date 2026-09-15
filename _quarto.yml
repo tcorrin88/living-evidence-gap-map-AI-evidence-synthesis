@@ -12,7 +12,7 @@ website:
       - href: index.qmd
         text: Home
         
-      page-footer:
+  page-footer:
     left: "Living Evidence Gap Map on the Use of Artificial Intelligence in Evidence Synthesis"
     right: "Generated with Quarto and GitHub Pages"
 
