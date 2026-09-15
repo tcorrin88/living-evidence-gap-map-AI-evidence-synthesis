@@ -10,3 +10,17 @@ title: "Home"
 <div class="hero-subtitle">
 A prototype demonstrating how living evidence gap map outputs can be published through a searchable, downloadable, and version-controlled platform.
 </div>
+```markdown
+::: {.status-box}
+The embedded methods page is displayed below. If it does not load, open it in a new tab using the button.
+:::
+ 
+```{=html}
+<div class="egm-embed-wrapper">
+<iframe
+    src="PASTE-YOUR-HTML-LINK-HERE"
+    title="Methods Documentation"
+    class="egm-iframe">
+</iframe>
+</div>
+ 
