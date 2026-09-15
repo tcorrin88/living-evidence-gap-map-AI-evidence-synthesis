@@ -11,6 +11,8 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - href: methods.qmd
+        text: Methods
         
   page-footer:
     left: "Living Evidence Gap Map on the Use of Artificial Intelligence in Evidence Synthesis"
