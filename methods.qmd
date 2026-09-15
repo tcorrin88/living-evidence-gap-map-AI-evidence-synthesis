@@ -1,0 +1,22 @@
+---
+title: "Methods"
+---
+ 
+This page provides access to the methods used to develop and maintain the evidence surveillance outputs on this website.
+ 
+::: {.card-grid}
+ 
+::: {.info-card}
+### Methods Document
+ 
+View the full methods documentation, including the search process, screening approach, data management procedures, and update workflow.
+ 
+```{=html}
+<p>
+<a href="PASTE-YOUR-HTML-LINK-HERE"
+     target="_blank"
+     rel="noopener noreferrer"
+     class="btn btn-primary">
+    View methods
+</a>
+</p>
