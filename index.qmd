@@ -3,7 +3,7 @@ title: "Home"
 ---
 
 ::: {.hero-banner}
-<span class="prototype-badge">Prototype</span>
+<span class="prototype-badge">Evidence Resource</span>
 
 <div class="hero-title">Living Evidence Gap Map on the Use of Artificial Intelligence in Evidence Synthesis </div>
 
