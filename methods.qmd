@@ -2,7 +2,7 @@
 title: "Methods"
 ---
  
-This page provides access to the methods used to develop and maintain the evidence surveillance outputs on this website.
+This page provides access to protocol for the scoping review and living evidence gap map on the use of AI in evidence synthesis. 
  
 ::: {.card-grid}
  
@@ -17,6 +17,6 @@ View the full methods documentation, including the search process, screening app
      target="_blank"
      rel="noopener noreferrer"
      class="btn btn-primary">
-    View methods
+    View Protocol
 </a>
 </p>
