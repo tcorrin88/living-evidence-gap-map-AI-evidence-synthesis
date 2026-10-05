@@ -13,7 +13,7 @@ This living evidence map visualizes the existing evidence on the use of artifici
 This map was developed as part of a scoping review to answer the question “How is artificial intelligence (AI) used, validated,  governed, and implemented responsibly in evidence synthesis, and what are the perceptions and levels of trust regarding its use?”
 </div>
 
-<div style="text-align:center; margin-top:25px; margin-bottom:25px;">
+<div style="text-align:center; margin: 15px 0 10px 0;">
 <a href="map.html"
 style="
 background-color:#2E7BE8;
@@ -33,23 +33,25 @@ Explore the Living Evidence Gap Map
  
 <div style="
 width: 100%;
-margin: 20px 0;
-padding: 18px 22px;
+margin: 10px 0;
+padding: 15px;
 background-color: #f4efdf;
 border: 2px solid #000;
 border-radius: 8px;
-text-align: left;
 box-sizing: border-box;
+text-align: left;
 ">
  
 <div style="
-font-size: 1.8rem;
-font-weight: 700;
-color: #26374a;
-margin-bottom: 12px;
+font-size:1.8rem;
+font-weight:700;
+color:#26374a;
+margin-bottom:10px;
 ">
 Living Evidence Gap Map Status
 </div>
+ 
+<div style="line-height:1.5; text-align:left;">
  
 <strong>Current Evidence Coverage:</strong> 2015-February 2026<br>
  
@@ -58,7 +60,9 @@ Living Evidence Gap Map Status
 <strong>Questions or Feedback?</strong><br>
  
 <strong>Tricia Corrin</strong><br>
+ 
 Senior Epidemiologist, Public Health Agency of Canada<br>
+ 
 PhD Student, University of Guelph<br>
  
 <a href="mailto:tricia.corrin@phac-aspc.gc.ca">tricia.corrin@phac-aspc.gc.ca</a> |
