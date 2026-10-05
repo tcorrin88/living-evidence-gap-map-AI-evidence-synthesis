@@ -32,14 +32,14 @@ Explore the Living Evidence Gap Map
 <div style="text-align:center;">
  
 <div style="
-width: fit-content;
-max-width: 700px;
-margin: 20px auto;
+width: 100%;
+margin: 20px 0;
 padding: 18px 22px;
-background-color: #fff9e6;
+background-color: #f4efdf;
 border: 2px solid #000;
 border-radius: 8px;
 text-align: left;
+box-sizing: border-box;
 ">
  
 <div style="
@@ -52,6 +52,7 @@ Living Evidence Gap Map Status
 </div>
  
 <strong>Current Evidence Coverage:</strong> 2015-February 2026<br>
+ 
 <strong>Next Update:</strong> Evidence from March-October 2026. In progress.<br><br>
  
 <strong>Questions or Feedback?</strong><br>
@@ -62,7 +63,5 @@ PhD Student, University of Guelph<br>
  
 <a href="mailto:tricia.corrin@phac-aspc.gc.ca">tricia.corrin@phac-aspc.gc.ca</a> |
 <a href="mailto:pcorrin@uoguelph.ca">pcorrin@uoguelph.ca</a>
- 
-</div>
  
 </div>
