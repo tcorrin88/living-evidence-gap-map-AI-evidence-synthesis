@@ -18,3 +18,27 @@ This map was developed as part of a scoping review to answer the question “How
 Explore the Living Evidence Gap Map
 </a>
 </div>
+
+<div style="
+max-width: 750px;
+margin: 40px auto;
+padding: 24px;
+background-color: #f8f9fa;
+border-left: 5px solid #26374a;
+border-radius: 8px;
+">
+ 
+<h3 style="margin-top:0;">Living Evidence Gap Map Status</h3>
+ 
+<p><strong>Current Evidence Coverage:</strong> 2015 - February 2026</p>
+ 
+<p><strong>Next Update:</strong> Evidence from March - October 2026. In progress.</p>
+ 
+<p><strong>Questions or feedback?</strong></p>
+ 
+<p>
+Tricia Corrin<br>
+Senior Epidemiologist<br>
+PhD Student<br>
+Email: tricia.corrin@phac-aspc.gc.ca or pcorrin@uoguelph.ca
+</p>
