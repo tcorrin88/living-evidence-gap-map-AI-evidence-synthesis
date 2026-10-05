@@ -25,3 +25,5 @@ format:
     toc: false
     page-layout: full
 
+resources:
+- evidence-gap-map.html
