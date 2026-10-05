@@ -36,13 +36,15 @@ padding: 20px;
 background-color: #eef3f7;
 border: 2px solid #000000;
 border-radius: 8px;
-line-height: 1.5;
+text-align: left;
+line-height: 1.4;
 ">
  
 <h3 style="margin:0 0 12px 0; color:#26374a;">
 Living Evidence Gap Map Status
 </h3>
  
+<div>
 <strong>Current Evidence Coverage:</strong> 2015 – February 2026<br>
  
 <strong>Next Update:</strong> Evidence from March – October 2026. In progress.<br><br>
@@ -53,12 +55,8 @@ Living Evidence Gap Map Status
 Senior Epidemiologist, Public Health Agency of Canada<br>
 PhD Student, University of Guelph<br>
  
-<a href="mailto:tricia.corrin@phac-aspc.gc.ca">
-tricia.corrin@phac-aspc.gc.ca
-</a>
-&nbsp;|&nbsp;
-<a href="mailto:pcorrin@uoguelph.ca">
-pcorrin@uoguelph.ca
-</a>
+<a href="mailto:tricia.corrin@phac-aspc.gc.ca">tricia.corrin@phac-aspc.gc.ca</a><br>
+<a href="mailto:pcorrin@uoguelph.ca">pcorrin@uoguelph.ca</a>
+</div>
  
 </div>
