@@ -13,46 +13,53 @@ This living evidence map visualizes the existing evidence on the use of artifici
 This map was developed as part of a scoping review to answer the question “How is artificial intelligence (AI) used, validated,  governed, and implemented responsibly in evidence synthesis, and what are the perceptions and levels of trust regarding its use?”
 </div>
 
-<div style="text-align:center; margin: 8px 0 4px 0;">
-<a href="map.html"
-style="
-background-color:#2E7BE8;
-color:white;
-padding:18px 36px;
-font-size:24px;
-font-weight:600;
-text-decoration:none;
-border-radius:6px;
-display:inline-block;
+<div style="
+background-color:#f4efdf;
+border:2px solid #000;
+border-radius:8px;
+padding:25px 30px;
+margin:20px auto;
+max-width:750px;
+text-align:left;
 ">
-Explore the Living Evidence Gap Map
-</a>
-</div>
- 
-:::
- 
-<div class="status-update-box">
  
-<h2 style="margin-top:0;">
+<div style="
+font-size:2rem;
+font-weight:700;
+color:#26374a;
+margin-bottom:20px;
+line-height:1.2;
+">
 Living Evidence Gap Map Status
-</h2>
+</div>
  
-<p>
+<div style="
+font-size:1rem;
+line-height:1.7;
+">
+ 
 <strong>Current Evidence Coverage:</strong> 2015-February 2026<br>
+ 
 <strong>Next Update:</strong> Evidence from March-October 2026. In progress.
-</p>
  
-<p>
-<strong>Questions or Feedback?</strong>
-</p>
+<br><br>
  
-<p>
+<strong>Questions or Feedback?</strong><br>
+ 
 <strong>Tricia Corrin</strong><br>
+ 
 Senior Epidemiologist, Public Health Agency of Canada<br>
+ 
 PhD Student, University of Guelph<br>
  
-<a href="mailto:tricia.corrin@phac-aspc.gc.ca">tricia.corrin@phac-aspc.gc.ca</a> |
-<a href="mailto:pcorrin@uoguelph.ca">pcorrin@uoguelph.ca</a>
-</p>
+<a href="mailto:tricia.corrin@phac-aspc.gc.ca">
+tricia.corrin@phac-aspc.gc.ca
+</a>
+|
+<a href="mailto:pcorrin@uoguelph.ca">
+pcorrin@uoguelph.ca
+</a>
+ 
+</div>
  
 </div>
