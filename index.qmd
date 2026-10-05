@@ -13,6 +13,24 @@ This living evidence map visualizes the existing evidence on the use of artifici
 This map was developed as part of a scoping review to answer the question “How is artificial intelligence (AI) used, validated,  governed, and implemented responsibly in evidence synthesis, and what are the perceptions and levels of trust regarding its use?”
 </div>
 
+<div style="text-align:center; margin: 8px 0 4px 0;">
+<a href="map.html"
+style="
+background-color:#2E7BE8;
+color:white;
+padding:18px 36px;
+font-size:24px;
+font-weight:600;
+text-decoration:none;
+border-radius:6px;
+display:inline-block;
+">
+Explore the Living Evidence Gap Map
+</a>
+</div>
+ 
+:::
+
 <div style="
 background-color:#f4efdf;
 border:2px solid #000;
