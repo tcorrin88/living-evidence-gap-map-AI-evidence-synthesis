@@ -10,7 +10,9 @@ title: ""
 <div class="hero-subtitle">
 This living evidence map visualizes the existing evidence on the use of artificial intelligence (AI) in evidence synthesis.
 
-This map was developed as part of a scoping review to answer the question “How is artificial intelligence (AI) used, validated,  governed, and implemented responsibly in evidence synthesis, and what are the perceptions and levels of trust regarding its use?”
+The use of AI to automate aspects of the evidence synthesis process is a rapidly evolving area of research, offering new approaches to address the growing volume and complexity of scientific literature.
+
+This evidence map is intended to be <strong>living</strong>, with regular updates to capture both existing evidence and new evidence as it emerges.
 </div>
 
 <div style="text-align:center; margin: 8px 0 4px 0;">
