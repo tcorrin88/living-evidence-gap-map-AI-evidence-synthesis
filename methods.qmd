@@ -1,11 +1,8 @@
-HTML
 ---
 title: ""
 ---
  
 ::: {.hero-banner}
- 
-<span class="prototype-badge">Evidence Resource</span>
  
 <div class="hero-title">
 Methods
