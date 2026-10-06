@@ -7,15 +7,14 @@ background:#f3f5f7;
 border-left:8px solid #26374a;
 padding:1rem 1.25rem;
 margin-bottom:1rem;
-text-align:left;
 ">
  
 <div style="
 font-size:2.4rem;
 font-weight:700;
 color:#26374a;
-line-height:1;
 margin:0 0 8px 0;
+line-height:1;
 ">
 Methods
 </div>
@@ -23,7 +22,7 @@ Methods
 <div style="
 font-size:1.1rem;
 line-height:1.5;
-text-align:left;
+margin-left:-8px;
 ">
  
 This map was developed as part of a scoping review to answer the question:
@@ -60,7 +59,7 @@ The evidence gap map plots the stages of the evidence synthesis process (e.g., s
 The outcome domains were identified based on the review objectives and include:
  
 <ul style="
-margin:6px 0 10px 20px;
+margin:6px 0 10px 15px;
 padding-left:15px;
 ">
 <li>Performance, efficiency, and usability of AI in evidence synthesis</li>
@@ -88,11 +87,6 @@ All screening was conducted in DistillerSR, and EPPI-Mapper was used to produce 
  
 <br><br>
  
-This map will be updated approximately every 6 months, with the next search being run in October 2026.
- 
-</div>
- 
-</div>
 This map will be updated approximately every 6 months, with the next search being run in October 2026.
  
 </div>
