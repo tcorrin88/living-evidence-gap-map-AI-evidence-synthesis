@@ -1,24 +1,8 @@
 ---
-title: ""
+title: "Methods"
 ---
  
-<div class="hero-banner">
- 
-<div class="hero-title">
-Methods
-</div>
- 
-<div class="hero-subtitle">
- 
-This map was developed as part of a scoping review to answer the question:
- 
-<br>
- 
-<em>
-“How is artificial intelligence (AI) used, validated, governed, and implemented responsibly in evidence synthesis, and what are the perceptions and levels of trust regarding its use?”
-</em>
- 
-<br><br>
+<p>
  
 <a href="https://doi.org/10.17605/OSF.IO/4AJT7"
 target="_blank"
@@ -26,18 +10,27 @@ style="
 background-color:#2E7BE8;
 color:white;
 padding:12px 24px;
-font-size:20px;
+font-size:18px;
 font-weight:600;
 text-decoration:none;
 border-radius:6px;
 display:inline-block;
+margin-bottom:20px;
 ">
 View Protocol
 </a>
  
-</div>
+</p>
  
-</div>
+<h2>Review Question</h2>
+ 
+<p>
+This map was developed as part of a scoping review to answer the question:
+</p>
+ 
+<p><em>
+“How is artificial intelligence (AI) used, validated, governed, and implemented responsibly in evidence synthesis, and what are the perceptions and levels of trust regarding its use?”
+</em></p>
  
 <h2>Evidence Map Framework</h2>
  
