@@ -8,9 +8,7 @@ title: "Home"
 <div class="hero-title">Living Evidence Gap Map on the Use of Artificial Intelligence in Evidence Synthesis </div>
 
 <div class="hero-subtitle">
-This living evidence map visualizes the existing evidence on the use of artificial intelligence (AI) in evidence synthesis.
-
-This map was developed as part of a scoping review to answer the question “How is artificial intelligence (AI) used, validated,  governed, and implemented responsibly in evidence synthesis, and what are the perceptions and levels of trust regarding its use?”
+This living evidence map visualizes the existing evidence on the use of artificial intelligence (AI) in evidence synthesis. This map was developed as part of a scoping review to answer the question “How is artificial intelligence (AI) used, validated, governed, and implemented responsibly in evidence synthesis, and what are the perceptions and levels of trust regarding its use?”
 </div>
 
 <div style="text-align:center; margin: 8px 0 4px 0;">
