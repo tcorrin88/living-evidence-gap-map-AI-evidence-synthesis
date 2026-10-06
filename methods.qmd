@@ -1,22 +1,78 @@
 ---
 title: "Methods"
 ---
- 
-This page provides access to protocol for the scoping review and living evidence gap map on the use of AI in evidence synthesis. 
- 
+ 
+::: {.hero-banner}
+ 
+<div class="hero-title">
+Protocol
+</div>
+ 
+<div class="hero-subtitle">
+This page provides access to the protocol for the scoping review and living evidence gap map on the use of artificial intelligence (AI) in evidence synthesis.
+</div>
+ 
+:::
+ 
 ::: {.card-grid}
- 
+ 
 ::: {.info-card}
-### Methods Document
- 
-View the full methods documentation, including the search process, screening approach, data management procedures, and update workflow.
- 
-```{=html}
-<p>
+ 
+### Protocol
+ 
+Access the full protocol and methods documentation, including:
+ 
+- Review objectives and research questions
+- Eligibility criteria
+- Search strategy and databases
+- Screening and study selection procedures
+- Data extraction methods
+- Evidence mapping framework
+- Living update workflow
+ 
 <a href="https://doi.org/10.17605/OSF.IO/4AJT7"
-     target="_blank"
-     rel="noopener noreferrer"
-     class="btn btn-primary">
-    View Protocol
+target="_blank"
+rel="noopener noreferrer"
+style="
+background-color:#2E7BE8;
+color:white;
+padding:12px 24px;
+text-decoration:none;
+border-radius:6px;
+font-weight:600;
+display:inline-block;
+margin-top:10px;
+">
+View Protocol
 </a>
-</p>
+ 
+:::
+ 
+::: {.info-card}
+ 
+### Living Review Status
+ 
+**Current Evidence Coverage:** February 2026
+ 
+**Next Update:** In Progress
+ 
+The evidence gap map will be updated periodically to incorporate newly published evidence on the use of AI in evidence synthesis.
+ 
+:::
+ 
+:::
+ 
+<div style="
+background-color:#f3f5f7;
+border-left:8px solid #26374a;
+padding:20px;
+margin-top:20px;
+">
+ 
+### About This Living Evidence Gap Map
+ 
+This living evidence gap map was developed to identify, organize, and visualize the evidence describing the use of artificial intelligence across the stages of evidence synthesis.
+ 
+The map supports exploration of research on AI applications, validation approaches, governance considerations, implementation practices, and perceptions of trust in AI-assisted evidence synthesis.
+ 
+</div>
