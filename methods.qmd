@@ -5,7 +5,7 @@ title: ""
 <div style="
 background:#f3f5f7;
 border-left:8px solid #26374a;
-padding:1rem 1.25rem;
+padding:1.5rem 2rem;
 margin-bottom:1rem;
 ">
  
@@ -13,8 +13,8 @@ margin-bottom:1rem;
 font-size:2.4rem;
 font-weight:700;
 color:#26374a;
-margin:0 0 6px 0;
-line-height:1;
+margin:0 0 0.5rem 0;
+padding-left:8px;
 ">
 Methods
 </div>
@@ -22,7 +22,6 @@ Methods
 <div style="
 font-size:1.1rem;
 line-height:1.5;
-margin-left:-12px;
 ">
  
 This map was developed as part of a scoping review to answer the question:
@@ -58,7 +57,7 @@ The evidence gap map plots the stages of the evidence synthesis process (e.g., s
  
 The outcome domains were identified based on the review objectives and include:
  
-<ul style="margin:6px 0 10px 20px;">
+<ul>
 <li>Performance, efficiency, and usability of AI in evidence synthesis</li>
 <li>Responsible use of AI in evidence synthesis</li>
 <li>Perceptions, acceptability, and trust regarding the use of AI in evidence synthesis</li>
