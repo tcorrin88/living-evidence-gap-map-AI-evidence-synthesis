@@ -1,40 +1,40 @@
+HTML
 ---
-title: "Methods"
+title: ""
 ---
-
-<div style="
-background:#f3f5f7;
-border-left:8px solid #26374a;
-padding:20px 25px;
-margin-bottom:20px;
-text-align:left;
-">
  
-<p style="margin:0 0 12px 0; line-height:1.5;">
-This evidence map visualizes the existing evidence on the use of artificial intelligence (AI) in evidence synthesis. The use of AI to automate aspects of the evidence synthesis process is a rapidly evolving area of research, offering new approaches to address the growing volume and complexity of scientific literature.
-</p>
+::: {.hero-banner}
  
-<p style="margin:0; line-height:1.5;">
-This evidence map is intended to be <strong>living</strong>, with regular updates to capture both existing evidence and new evidence as it emerges.
-</p>
+<span class="prototype-badge">Evidence Resource</span>
  
+<div class="hero-title">
+Methods
 </div>
  
-<p>
+<div class="hero-subtitle">
+This evidence map visualizes the existing evidence on the use of artificial intelligence (AI) in evidence synthesis. The use of AI to automate aspects of the evidence synthesis process is a rapidly evolving area of research, offering new approaches to address the growing volume and complexity of scientific literature.
  
+This evidence map is intended to be <strong>living</strong>, with regular updates to capture both existing evidence and new evidence as it emerges.
+</div>
+ 
+<div style="text-align:center; margin: 8px 0 4px 0;">
 <a href="https://doi.org/10.17605/OSF.IO/4AJT7"
 target="_blank"
 style="
 background-color:#2E7BE8;
 color:white;
-padding:14px 28px;
+padding:18px 36px;
+font-size:24px;
+font-weight:600;
 text-decoration:none;
 border-radius:6px;
-font-weight:600;
 display:inline-block;
 ">
 View Protocol
 </a>
+</div>
+ 
+:::
  
 </p>
  
