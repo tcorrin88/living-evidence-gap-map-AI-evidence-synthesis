@@ -5,7 +5,7 @@ title: ""
 <div style="
 background:#f3f5f7;
 border-left:8px solid #26374a;
-padding:1.5rem 2rem;
+padding:1rem 1.25rem;
 margin-bottom:1rem;
 text-align:left;
 ">
@@ -14,8 +14,8 @@ text-align:left;
 font-size:2.4rem;
 font-weight:700;
 color:#26374a;
-margin-bottom:4px;
-line-height:1.1;
+line-height:1;
+margin:0 0 8px 0;
 ">
 Methods
 </div>
@@ -31,7 +31,7 @@ This map was developed as part of a scoping review to answer the question:
 <br>
  
 <em>
-"How is artificial intelligence (AI) used, validated, governed, and implemented responsibly in evidence synthesis, and what are the perceptions and levels of trust regarding its use?"
+“How is artificial intelligence (AI) used, validated, governed, and implemented responsibly in evidence synthesis, and what are the perceptions and levels of trust regarding its use?”
 </em>
  
 <br><br>
@@ -60,17 +60,12 @@ The evidence gap map plots the stages of the evidence synthesis process (e.g., s
 The outcome domains were identified based on the review objectives and include:
  
 <ul style="
-margin-top:4px;
-margin-bottom:8px;
-padding-left:25px;
+margin:6px 0 10px 20px;
+padding-left:15px;
 ">
- 
 <li>Performance, efficiency, and usability of AI in evidence synthesis</li>
- 
 <li>Responsible use of AI in evidence synthesis</li>
- 
 <li>Perceptions, acceptability, and trust regarding the use of AI in evidence synthesis</li>
- 
 </ul>
  
 Articles that were preprints, books, conference proceedings, conference abstracts, conference posters, narrative reviews, literature reviews, published before 2015, or not available in English or French were excluded.
@@ -93,6 +88,11 @@ All screening was conducted in DistillerSR, and EPPI-Mapper was used to produce 
  
 <br><br>
  
+This map will be updated approximately every 6 months, with the next search being run in October 2026.
+ 
+</div>
+ 
+</div>
 This map will be updated approximately every 6 months, with the next search being run in October 2026.
  
 </div>
