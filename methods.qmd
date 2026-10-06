@@ -1,24 +1,21 @@
 ---
 title: "Methods"
 ---
- 
+
 <div style="
-background-color:#f3f5f7;
+background:#f3f5f7;
 border-left:8px solid #26374a;
-padding:25px;
-margin-bottom:25px;
+padding:20px 25px;
+margin-bottom:20px;
+text-align:left;
 ">
  
-<p style="font-size:1.1rem; margin-bottom:15px;">
- 
+<p style="margin:0 0 12px 0; line-height:1.5;">
 This evidence map visualizes the existing evidence on the use of artificial intelligence (AI) in evidence synthesis. The use of AI to automate aspects of the evidence synthesis process is a rapidly evolving area of research, offering new approaches to address the growing volume and complexity of scientific literature.
- 
 </p>
  
-<p style="font-size:1.1rem; margin-bottom:0;">
- 
+<p style="margin:0; line-height:1.5;">
 This evidence map is intended to be <strong>living</strong>, with regular updates to capture both existing evidence and new evidence as it emerges.
- 
 </p>
  
 </div>
