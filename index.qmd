@@ -1,22 +1,20 @@
 ---
 title: ""
 ---
- 
+
 ::: {.hero-banner}
- 
-<div class="hero-title">
-Methods
-</div>
- 
+<span class="prototype-badge">Evidence Resource</span>
+
+<div class="hero-title">Living Evidence Gap Map on the Use of Artificial Intelligence in Evidence Synthesis </div>
+
 <div class="hero-subtitle">
-This evidence map visualizes the existing evidence on the use of artificial intelligence (AI) in evidence synthesis. The use of AI to automate aspects of the evidence synthesis process is a rapidly evolving area of research, offering new approaches to address the growing volume and complexity of scientific literature.
- 
-This evidence map is intended to be <strong>living</strong>, with regular updates to capture both existing evidence and new evidence as it emerges.
+This living evidence map visualizes the existing evidence on the use of artificial intelligence (AI) in evidence synthesis.
+
+This map was developed as part of a scoping review to answer the question “How is artificial intelligence (AI) used, validated,  governed, and implemented responsibly in evidence synthesis, and what are the perceptions and levels of trust regarding its use?”
 </div>
- 
+
 <div style="text-align:center; margin: 8px 0 4px 0;">
-<a href="https://doi.org/10.17605/OSF.IO/4AJT7"
-target="_blank"
+<a href="map.html"
 style="
 background-color:#2E7BE8;
 color:white;
@@ -27,10 +25,10 @@ text-decoration:none;
 border-radius:6px;
 display:inline-block;
 ">
-View Protocol
+Explore the Living Evidence Gap Map
 </a>
 </div>
- 
+ 
 :::
  
 <div style="
