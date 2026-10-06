@@ -2,37 +2,14 @@
 title: "Methods"
 ---
  
-::: {.hero-banner}
+This evidence map visualizes the existing evidence on the use of artificial intelligence (AI) in evidence synthesis. The use of AI to automate aspects of the evidence synthesis process is a rapidly evolving area of research, offering new approaches to address the growing volume and complexity of scientific literature.
  
-<div class="hero-title">
-Protocol
-</div>
+This evidence map is intended to be **living**, with regular updates to capture both existing evidence and new evidence as it emerges.
  
-<div class="hero-subtitle">
-This page provides access to the protocol for the scoping review and living evidence gap map on the use of artificial intelligence (AI) in evidence synthesis.
-</div>
- 
-:::
- 
-::: {.card-grid}
- 
-::: {.info-card}
- 
-### Protocol
- 
-Access the full protocol and methods documentation, including:
- 
-- Review objectives and research questions
-- Eligibility criteria
-- Search strategy and databases
-- Screening and study selection procedures
-- Data extraction methods
-- Evidence mapping framework
-- Living update workflow
+<div style="margin:20px 0 30px 0;">
  
 <a href="https://doi.org/10.17605/OSF.IO/4AJT7"
 target="_blank"
-rel="noopener noreferrer"
 style="
 background-color:#2E7BE8;
 color:white;
@@ -41,38 +18,41 @@ text-decoration:none;
 border-radius:6px;
 font-weight:600;
 display:inline-block;
-margin-top:10px;
 ">
 View Protocol
 </a>
  
-:::
- 
-::: {.info-card}
- 
-### Living Review Status
- 
-**Current Evidence Coverage:** February 2026
- 
-**Next Update:** In Progress
- 
-The evidence gap map will be updated periodically to incorporate newly published evidence on the use of AI in evidence synthesis.
- 
-:::
- 
-:::
- 
-<div style="
-background-color:#f3f5f7;
-border-left:8px solid #26374a;
-padding:20px;
-margin-top:20px;
-">
- 
-### About This Living Evidence Gap Map
- 
-This living evidence gap map was developed to identify, organize, and visualize the evidence describing the use of artificial intelligence across the stages of evidence synthesis.
- 
-The map supports exploration of research on AI applications, validation approaches, governance considerations, implementation practices, and perceptions of trust in AI-assisted evidence synthesis.
- 
 </div>
+ 
+## Methods
+ 
+This map was developed as part of a scoping review to answer the question:
+ 
+> How is artificial intelligence (AI) used, validated, governed, and implemented responsibly in evidence synthesis, and what are the perceptions and levels of trust regarding its use?
+ 
+The evidence gap map plots the stages of the evidence synthesis process (e.g., search strategy development, title and abstract screening, full-text screening, data extraction, and risk of bias assessment) against key outcome domains related to AI in evidence synthesis.
+ 
+The outcome domains were identified based on the review objectives and include:
+ 
+1. Performance, efficiency, and usability of AI in evidence synthesis
+2. Responsible use of AI in evidence synthesis
+3. Perceptions, acceptability, and trust regarding the use of AI in evidence synthesis
+ 
+### Eligibility Criteria
+ 
+Articles that were preprints, books, conference proceedings, conference abstracts, conference posters, narrative reviews, literature reviews, published before 2015, or not available in English or French were excluded.
+ 
+### Search and Screening
+ 
+The initial search was run on **19 February 2026** in:
+ 
+- MEDLINE
+- Scopus
+- Embase
+- Compendex
+ 
+Relevance screening and data mapping were conducted using a human-in-the-loop approach that combined human reviewers with DistillerSR's artificial intelligence tools, including DistillerSR's Artificial Intelligence System (DAISY) and Smart Evidence Extraction (SEE).
+ 
+All final inclusion and exclusion decisions, as well as evidence mapping decisions, remained subject to human reviewer oversight, validation, and reconciliation procedures.
+ 
+All screening was conducted in DistillerSR, and EPPI-Mapper was used to produce the final evidence gap map.
