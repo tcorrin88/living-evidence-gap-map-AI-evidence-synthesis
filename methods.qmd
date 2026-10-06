@@ -2,19 +2,34 @@
 title: ""
 ---
  
-::: {.hero-banner}
+<div style="
+background:#f3f5f7;
+border-left:8px solid #26374a;
+padding:2rem;
+margin-bottom:2rem;
+">
  
-<div class="hero-title">
+<div style="
+font-size:2.4rem;
+font-weight:700;
+margin-bottom:0.5rem;
+color:#26374a;
+">
 Methods
 </div>
  
-<div class="hero-subtitle">
+<div style="
+font-size:1.2rem;
+">
 This evidence map visualizes the existing evidence on the use of artificial intelligence (AI) in evidence synthesis. The use of AI to automate aspects of the evidence synthesis process is a rapidly evolving area of research, offering new approaches to address the growing volume and complexity of scientific literature.
+ 
+<br><br>
  
 This evidence map is intended to be <strong>living</strong>, with regular updates to capture both existing evidence and new evidence as it emerges.
 </div>
  
-<div style="text-align:center; margin: 8px 0 4px 0;">
+<div style="text-align:center; margin-top:20px;">
+ 
 <a href="https://doi.org/10.17605/OSF.IO/4AJT7"
 target="_blank"
 style="
@@ -29,9 +44,10 @@ display:inline-block;
 ">
 View Protocol
 </a>
+ 
 </div>
  
-:::
+</div>
  
 </p>
  
