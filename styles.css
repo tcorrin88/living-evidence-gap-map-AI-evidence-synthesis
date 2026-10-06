@@ -46,8 +46,7 @@ a:hover {
 
 .hero-subtitle {
   font-size: 1.2rem;
-  max-width: 95%;
-}
+ }
 
 .card-grid {
   display: grid;
