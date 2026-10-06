@@ -2,27 +2,13 @@
 title: ""
 ---
  
-<div style="
-background:#f3f5f7;
-border-left:8px solid #26374a;
-padding:1.5rem 2rem;
-margin-bottom:1rem;
-">
+<div class="hero-banner">
  
-<div style="
-font-size:2.4rem;
-font-weight:700;
-color:#26374a;
-margin:0 0 0.5rem 0;
-padding-left:8px;
-">
+<div class="hero-title">
 Methods
 </div>
  
-<div style="
-font-size:1.1rem;
-line-height:1.5;
-">
+<div class="hero-subtitle">
  
 This map was developed as part of a scoping review to answer the question:
  
@@ -49,42 +35,28 @@ display:inline-block;
 View Protocol
 </a>
  
-<br><br>
+</div>
+ 
+</div>
+ 
+## Methodology
  
 The evidence gap map plots the stages of the evidence synthesis process (e.g., search strategy development, title and abstract screening, full-text screening, data extraction, and risk of bias assessment) against key outcome domains related to AI in evidence synthesis.
  
-<br><br>
- 
 The outcome domains were identified based on the review objectives and include:
  
-<ul>
-<li>Performance, efficiency, and usability of AI in evidence synthesis</li>
-<li>Responsible use of AI in evidence synthesis</li>
-<li>Perceptions, acceptability, and trust regarding the use of AI in evidence synthesis</li>
-</ul>
+- Performance, efficiency, and usability of AI in evidence synthesis
+- Responsible use of AI in evidence synthesis
+- Perceptions, acceptability, and trust regarding the use of AI in evidence synthesis
  
 Articles that were preprints, books, conference proceedings, conference abstracts, conference posters, narrative reviews, literature reviews, published before 2015, or not available in English or French were excluded.
  
-<br><br>
- 
-The initial search was run on <strong>19 February 2026</strong> in MEDLINE, Scopus, Embase and Compendex.
- 
-<br><br>
+The initial search was run on **19 February 2026** in MEDLINE, Scopus, Embase and Compendex.
  
 Relevance screening and data mapping were conducted using a human-in-the-loop approach that combined human reviewers with DistillerSR's AI tools, including DistillerSR's Artificial Intelligence System (DAISY) and Smart Evidence Extraction (SEE).
  
-<br><br>
- 
-All final inclusion and exclusion decisions, as well as evidence mapping decisions, remained subject to human reviewer oversight, validation, and reconciliation procedures.
- 
-<br><br>
+All final inclusion and exclusion decisions, as well as evidence mapping decisions remained subject to human reviewer oversight, validation, and reconciliation procedures.
  
 All screening was conducted in DistillerSR, and EPPI-Mapper was used to produce the final evidence gap map.
  
-<br><br>
- 
 This map will be updated approximately every 6 months, with the next search being run in October 2026.
- 
-</div>
- 
-</div>
