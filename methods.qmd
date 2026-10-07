@@ -1,8 +1,35 @@
 ---
 title: "Methods"
-page-layout: article
 ---
+<style>
+/* Reduce spacing around headings */
+h2 {
+margin-top: 1rem !important;
+margin-bottom: 0.5rem !important;
+}
  
+/* Reduce spacing between paragraphs */
+p {
+margin-top: 0 !important;
+margin-bottom: 0.75rem !important;
+}
+ 
+/* Reduce spacing around lists */
+ul {
+margin-top: 0.25rem !important;
+margin-bottom: 0.75rem !important;
+}
+ 
+li {
+margin-bottom: 0.25rem !important;
+}
+ 
+/* Remove extra spacing Quarto may add around sections */
+section.level2 {
+margin-top: 0 !important;
+padding-top: 0 !important;
+}
+</style>
 <p>
 <a href="https://doi.org/10.17605/OSF.IO/4AJT7"
 target="_blank"
