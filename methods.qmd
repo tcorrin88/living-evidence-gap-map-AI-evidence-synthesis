@@ -24,7 +24,6 @@ View Protocol
 <p>
 This map was developed as part of a scoping review to answer the question:
 </p>
- 
 <p><em>
 “How is artificial intelligence (AI) used, validated, governed, and implemented responsibly in evidence synthesis, and what are the perceptions and levels of trust regarding its use?”
 </em></p>
