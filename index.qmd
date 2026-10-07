@@ -10,7 +10,7 @@ title: ""
 <div class="hero-subtitle">
 The use of artificial intelligence (AI) to automate aspects of the evidence synthesis process is a rapidly evolving area of research, offering new approaches to address the growing volume and complexity of scientific literature. This evidence map visualizes the existing evidence on the use of AI in evidence synthesis.
 
-This evidence map is intended to be <strong>living</strong>, with regular updates to capture both existing evidence and new evidence as it emerges.
+This evidence map is intended to be <strong>living</strong>, with regular updates to capture new evidence as it emerges.
 </div>
 
 <div style="text-align:center; margin: 8px 0 4px 0;">
