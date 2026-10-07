@@ -25,7 +25,7 @@ format:
     theme: cosmo
     css: styles.css
     toc: false
-    page-layout: full
+    page-layout: article
 
 resources:
 - evidence-gap-map.html
