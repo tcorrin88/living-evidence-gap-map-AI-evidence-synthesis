@@ -18,9 +18,7 @@ margin:0;
 View Protocol
 </a>
 </p>
- 
 <h2 style="margin-top:20px;">Review Question</h2>
- 
 <p>
 This map was developed as part of a scoping review to answer the question:
 </p>
